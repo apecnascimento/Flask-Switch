@@ -1,8 +1,6 @@
 """
-Flask-RouteBuilder
--------------
+Automatic registration for Flask blueprints.
 
-Automatic registration for Flask blueprints
 """
 from setuptools import setup
 
