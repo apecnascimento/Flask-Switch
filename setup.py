@@ -2,21 +2,21 @@
 Flask-RouteBuilder
 -------------
 
-This is the description for that library
+Automatic registration for Flask blueprints
 """
 from setuptools import setup
 
 
 setup(
-    name='Flask-RouteBuilder',
+    name='Flask-Switch',
     version='1.0',
     url='',
     license='MIT',
     author='apecnascimento',
     author_email='apecnascimento@gmail.com',
-    description='Blueprint route builder for flask',
+    description='Automatic registration for Flask blueprints',
     long_description=__doc__,
-    py_modules=['flask_route_builder'],
+    py_modules=['flask_switch'],
     # if you would be using a package instead use packages instead
     # of py_modules:
     # packages=['flask_sqlite3'],
